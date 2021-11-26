@@ -1,0 +1,35 @@
+﻿@model Movie
+
+<h1>@Model.Title</h1>
+
+<img src="@Model.Image" />
+
+<h2>Description</h2>
+
+<p>
+    @Model.Description
+</p>
+
+<h2>Showtimes</h2>
+
+<a asp-controller="Movies" asp-action="CreateShowtime" asp-route-movieId="@Model.Id" class="btn btn-primary">Add showtime</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Date</th>
+            <th>Time</th>
+            <th>RoomId</th>
+            <th>&nbsp;</th>
+        </tr>
+    </thead>
+    @foreach (ShowTime st in Model.ShowTimes)
+    {
+    <tr>
+        <td>@st.DateTime.ToShortDateString()</td>
+        <td>@st.DateTime.ToShortTimeString()</td>
+        <td>@st.Room.Number</td>
+        <td><a class="btn btn-sm btn-outline-danger" asp-area="POS" asp-controller="Movies" asp-action="DeleteShowTime" asp-route-movieId="@Model.Id" asp-route-showTimeId="@st.Id">Delete showtime</a></td>
+    </tr>
+    }
+</table>

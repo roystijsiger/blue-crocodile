@@ -1,0 +1,109 @@
+﻿@model OrderViewModel
+@{
+    Layout = "_Layout";
+}
+
+@if (Model.PaymentMethod == PaymentMethod.AtCounter)
+{
+    <h1>Order confirmation: @Model.Movie?.Title</h1>
+    <p>Thank you for your order!</p>
+    <p>You have chosen for payment at the cinema counter. Note your order order number below and pay at the counter before printing you're ticket at one of our touchscreens.</p>
+}
+else if (Model.PaymentStatus != PaymentStatus.Paid)
+{
+    <h1>Order confirmation: @Model.Movie?.Title</h1>
+    <p>Thank you for your order!</p>
+    <p>We did not successfully receive your payment (yet). You can refresh this page to check if the payment succeeded. Please give us a call if you experience any problems.</p>
+}
+else
+{
+    <h1>Payment confirmation: @Model.Movie?.Title</h1>
+    <p>Thank you for your order!</p>
+    <p>We successfully received your payment! You can view you're tickets below. You can press the print button to print you're tickets at home, but you can also note and enter you're order number at one of our touchscreens to print you're tickets.</p>
+
+}
+
+@Context.User.Identity.IsAuthenticated
+{
+    @Context.User.IsInRole(nameof(Role.Administrator))
+    {
+
+    }
+}
+
+<div class="row mt-4">
+    <div class="col-md-6">
+        <h2 class="mb-3">Order details</h2>
+        <table class="table">
+            <tr>
+                <th>Order number</th>
+                <td>@Model.Code</td>
+            </tr>
+            <tr>
+                <th>Movie</th>
+                <td>@Model.Movie.Title</td>
+            </tr>
+            <tr>
+                <th>Showtime</th>
+                <td>@Model.ShowTime.DateTime</td>
+            </tr>
+            <tr>
+                <th>RoomId</th>
+                <td>@Model.ShowTime.Room.Number</td>
+            </tr>
+            <tr>
+                <th>Reservation email</th>
+                <td>@Model.Email</td>
+            </tr>
+            <tr>
+                <th>Tickets</th>
+                <td>@Model.Reservations.Count</td>
+            </tr>
+            <tr>
+                <th>Total amount</th>
+                <td>&euro; @Model.TotalAmount</td>
+            </tr>
+        </table>
+    </div>
+    <div class="col-12">
+        <a onclick="print()" href="#" class="btn btn-primary d-print-none">Print</a>
+    </div>
+    <hr class="scissors" />
+    <div class="col-12">
+        @foreach (var reservation in Model.Reservations)
+        {
+            <div class="row prevent-page-break">
+                <div class="col-3 text-center">
+                    <h3>Ticket <span class="badge @(Model.PaymentStatus == PaymentStatus.Paid ? "badge-success" : "badge-danger")">@(Model.PaymentStatus == PaymentStatus.Paid ? "Paid" : "Not paid")</span></h3>
+                    <img src="@Model.Movie.Image" alt="@Model.Movie.Title" style="max-width: 100%;" />
+                </div>
+                <div class="col-9">
+                    <table class="table">
+                        <tr>
+                            <th>Movie</th>
+                            <td>@Model.Movie.Title</td>
+                        </tr>
+                        <tr>
+                            <th>Showtime</th>
+                            <td>@Model.ShowTime.DateTime</td>
+                        </tr>
+                        <tr>
+                            <th>RoomId</th>
+                            <td>@Model.ShowTime.Room.Number</td>
+                        </tr>
+                        <tr>
+                            <th>Row</th>
+                            <td>@reservation.Seat.Row</td>
+                        </tr>
+                        <tr>
+                            <th>Seat</th>
+                            <td>@reservation.Seat.SeatNumber</td>
+                        </tr>
+                    </table>
+                    <span class="barcode">@reservation.Code</span>
+                </div>
+                <hr class="scissors" />
+            </div>
+        }
+    </div>
+</div>

@@ -1,0 +1,31 @@
+﻿
+@model Movie
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>@Model.Title</h1>
+<img src="@Model.Image" />
+<h2>Description</h2>
+<p>
+    @Model.Description
+</p>
+<h2>Times</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Time</th>
+            <th>RoomId</th>
+            <th>&nbsp;</th>
+        </tr>
+    </thead>
+    @foreach (ShowTime st in Model.ShowTimes)
+    {
+        <tr>
+            <td>@st.DateTime</td>
+            <td>@st.Room.Number</td>
+            <td><a class="btn btn-sm btn-outline-primary" asp-controller="Orders" asp-action="Create" asp-route-movieId="@Model.Id" asp-route-showTimeId="@st.Id">Place reservation</a></td>
+        </tr>
+    }
+</table>

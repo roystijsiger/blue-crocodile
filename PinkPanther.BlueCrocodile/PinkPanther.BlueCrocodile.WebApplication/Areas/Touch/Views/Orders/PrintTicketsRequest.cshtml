@@ -1,0 +1,15 @@
+﻿@model PrintTicketsRequestViewModel
+
+<h1>Print you're tickets</h1>
+<p>You can print you're tickets after payment. If you did not pay already, you should do this first at the counter.</p>
+
+<div class="text-danger" asp-validation-summary="All"></div>
+
+<form method="post" asp-area="Touch" asp-controller="Orders" asp-action="PrintTicketsRequest">
+    <div class="form-group">
+        <label asp-for="Code"></label>
+        <input class="form-control" asp-for="Code" />
+    </div>
+    
+    <input type="submit" class="btn btn-primary" />
+</form>

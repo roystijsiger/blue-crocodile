@@ -1,0 +1,39 @@
+﻿@model CreateShowTimeViewModel
+
+    <form asp-action="CreateShowtime" method="post">
+        <input type="hidden" asp-for="MovieId" />
+
+        <label asp-for="DateTime">Date</label> <br />
+        <div class="input-group date" id="datetimepicker1" data-target-input="nearest">
+            <input type="text" class="form-control datetimepicker-input" data-toggle="datetimepicker" data-target="#datetimepicker1" asp-for="DateTime" value="@DateTime.Now" />
+            <div class="input-group-append" data-target="#datetimepicker1" data-toggle="datetimepicker">
+                <div class="input-group-text"><i class="far fa-calendar-check"></i></div>
+            </div>
+        </div>
+
+        <label asp-for="RoomId">Room</label>
+        <select asp-for="RoomId" class="form-control">
+            @foreach (var room in Model.Rooms)
+            {
+                <option value="@room.Number">@room.Number @(room.WeelChairAccessable ? " ♿" : "")</option>
+            }
+        </select>
+        <br />
+        <input type="submit" class="btn btn-primary" value="Submit" />
+        <a class="btn btn-outline-secondary" asp-action="Manage" asp-route-id="@Model.MovieId">Cancel</a>
+    </form>
+
+@section Scripts {
+    <script>
+        $(function () {
+            $('#datetimepicker1').datetimepicker({
+                icons: {
+                    time: "far fa-clock",
+                    date: "far fa-calendar",
+                    up: "fas fa-arrow-up",
+                    down: "fas fa-arrow-down"
+                }
+            });
+        });
+    </script>
+}

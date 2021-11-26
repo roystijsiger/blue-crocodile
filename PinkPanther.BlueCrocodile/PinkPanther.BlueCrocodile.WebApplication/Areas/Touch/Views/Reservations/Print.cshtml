@@ -1,0 +1,30 @@
+﻿@model Order
+@{
+    ViewData["Title"] = "Print";
+}
+
+<h1><span class="d-print-none">Print</span> Reservation</h1>
+<p class="d-print-none">You can print this page and show it at the cinema.</p>
+<p class="d-none d-print-block">This ticket is printed from Blue Crocodile reservation system.</p>
+
+<table class="table">
+    <tr>
+        <td>Code</td>
+        <td>@Model.Reservations.FirstOrDefault()?.Code</td>
+    </tr>
+    <tr>
+        <td>Movie</td>
+        <td>@Model.Movie?.Title</td>
+    </tr>
+    <tr>
+        <td>Date</td>
+        <td>@Model.ShowTime?.DateTime</td>
+    </tr>
+    <tr>
+        <td>RoomId</td>
+        <td>@Model.ShowTime?.Room.Number</td>
+    </tr>
+</table>
+
+<a onclick="print()" href="#" class="btn btn-primary d-print-none">Print</a>
+<a asp-controller="Movies" asp-action="Index" class="btn btn-outline-primary d-print-none">Back to show times</a>

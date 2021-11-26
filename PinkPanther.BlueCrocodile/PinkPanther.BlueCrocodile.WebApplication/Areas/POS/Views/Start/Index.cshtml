@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="row pos-start-row">
+    <div class="col-md-4">
+        <a asp-area="POS" asp-controller="Cart" asp-action="Overview">New order</a>
+    </div>
+
+    <div class="col-md-4">
+        <a asp-area="POS" asp-controller="Movies" asp-action="Overview">Manage movies</a>
+    </div>
+
+    @if (Context.User.IsInRole(nameof(Role.Administrator)) || Context.User.IsInRole(nameof(Role.Manager)))
+    {
+        <div class="col-md-4">
+            <a asp-area="Identity" asp-controller="Manage">Manage users</a>
+        </div>
+    }
+</div>

@@ -1,0 +1,27 @@
+﻿@model ShowTime
+@{
+    ViewData["Title"] = "ShowTimeDetails";
+}
+
+<h1>Show time details</h1>
+<table class="table">
+    <tr>
+        <td>Id</td>
+        <td>@Model.Id</td>
+    </tr>
+    <tr>
+        <td>DateTime</td>
+        <td>@Model.DateTime</td>
+    </tr>
+    <tr>
+        <td>RoomId</td>
+        <td>@Model.Room.Number</td>
+    </tr>
+</table>
+
+<form method="post" asp-action="CreateReservation">
+    <input type="hidden" name="movieId" value="@ViewData["MovieId"]" />
+    <input type="hidden" name="showTimeId" value="@Model.Id" />
+    <input type="submit" class="btn btn-primary" value="Place reservation"/>
+</form>
+

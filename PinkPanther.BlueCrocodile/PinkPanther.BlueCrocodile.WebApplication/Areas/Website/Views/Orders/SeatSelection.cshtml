@@ -1,0 +1,20 @@
+﻿@model OrderViewModel
+@{
+    Layout = "_Layout";
+}
+
+<h1>Seat selection: @Model.Movie?.Title</h1>
+
+<form method="post" asp-action="ConfirmSeatSelection">
+    <input type="submit" class="btn btn-primary" value="Skip"/>
+
+    <table class="table">
+        @for (var i = 0; i < Model.Reservations.Count; i++)
+        {
+            <tr><td>Ticket: @i</td><td>@Html.DropDownListFor(x => Model.Reservations[i].Seat.Location, Model.VisualAvailableSeats(), "--Select Seat--")</td></tr>
+        }
+    </table>
+
+    <input type="hidden" asp-for="Id" />
+    <input type="submit" class="btn btn-primary" value="Next" />
+</form>

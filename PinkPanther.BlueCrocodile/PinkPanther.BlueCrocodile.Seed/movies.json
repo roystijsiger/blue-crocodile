@@ -1,0 +1,954 @@
+[
+  {
+    "title": "Inception",
+    "link": "https://www.imdb.com/title/tt1375666/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO."
+  },
+  {
+    "title": "12 Years a Slave",
+    "link": "https://www.imdb.com/title/tt2024544/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery."
+  },
+  {
+    "title": "Room",
+    "link": "https://www.imdb.com/title/tt3170832/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "Held captive for 7 years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time."
+  },
+  {
+    "title": "The Wolf of Wall Street",
+    "link": "https://www.imdb.com/title/tt0993846/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government."
+  },
+  {
+    "title": "Toy Story 3",
+    "link": "https://www.imdb.com/title/tt0435761/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_UY209_CR4,0,140,209_AL_.jpg",
+    "description":
+      "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home."
+  },
+  {
+    "title": "Whiplash",
+    "link": "https://www.imdb.com/title/tt2582802/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential."
+  },
+  {
+    "title": "Ex Machina",
+    "link": "https://www.imdb.com/title/tt0470752/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMTUxNzc0OTIxMV5BMl5BanBnXkFtZTgwNDI3NzU2NDE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a highly advanced humanoid A.I."
+  },
+  {
+    "title": "Prisoners",
+    "link": "https://www.imdb.com/title/tt1392214/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts."
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "link": "https://www.imdb.com/title/tt1392190/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper, and a drifter named Max."
+  },
+  {
+    "title": "Her",
+    "link": "https://www.imdb.com/title/tt1798709/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need."
+  },
+  {
+    "title": "Django Unchained",
+    "link": "https://www.imdb.com/title/tt1853728/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner."
+  },
+  {
+    "title": "Arrival",
+    "link": "https://www.imdb.com/title/tt2543164/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "description":
+      "A linguist is recruited by the military to communicate with alien lifeforms after twelve mysterious spacecrafts land around the world."
+  },
+  {
+    "title": "Hacksaw Ridge",
+    "link": "https://www.imdb.com/title/tt2119532/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "description":
+      "World War II American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people, and becomes the first man in American history to receive the Medal of Honor without firing a shot."
+  },
+  {
+    "title": "Rush",
+    "link": "https://www.imdb.com/title/tt1979320/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description": "The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda."
+  },
+  {
+    "title": "Skyfall",
+    "link": "https://www.imdb.com/title/tt1074638/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BNDVhZmJiYWMtNmIzMC00ZWNiLTkzZDYtNGNlZmViMGM4OGExXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "Bond's loyalty to M is tested when her past comes back to haunt her. When MI6 comes under attack, 007 must track down and destroy the threat, no matter how personal the cost."
+  },
+  {
+    "title": "Logan",
+    "link": "https://www.imdb.com/title/tt3315342/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "description":
+      "In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety."
+  },
+  {
+    "title": "Call Me by Your Name",
+    "link": "https://www.imdb.com/title/tt5726616/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BNDk3NTEwNjc0MV5BMl5BanBnXkFtZTgwNzYxNTMwMzI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "In 1980s Italy, a romance blossoms between a seventeen year-old student and the older man hired as his father's research assistant."
+  },
+  {
+    "title": "Silence",
+    "link": "https://www.imdb.com/title/tt0490215/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMjY3OTk0NjA2NV5BMl5BanBnXkFtZTgwNTg3Mjc2MDI@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "description":
+      "In the 17th century, two Portuguese Jesuit priests travel to Japan in an attempt to locate their mentor, who is rumored to have committed apostasy, and to propagate Catholicism."
+  },
+  {
+    "title": "Sing Street",
+    "link": "https://www.imdb.com/title/tt3544112/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMjEzODA3MDcxMl5BMl5BanBnXkFtZTgwODgxNDk3NzE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "A boy growing up in Dublin during the 1980s escapes his strained family life by starting a band to impress the mysterious girl he likes."
+  },
+  {
+    "title": "The Big Sick",
+    "link": "https://www.imdb.com/title/tt5462602/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BZWM4YzZjOTEtZmU5ZS00ZTRkLWFiNjAtZTEwNzIzMDM5MjdmXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "Pakistan-born comedian Kumail Nanjiani and grad student Emily Gardner fall in love but struggle as their cultures clash. When Emily contracts a mysterious illness, Kumail finds himself forced to face her feisty parents, his family's expectations, and his true feelings."
+  },
+  {
+    "title": "Green Book",
+    "link": "https://www.imdb.com/title/tt6966692/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "description":
+      "A working-class Italian-American bouncer becomes the driver of an African-American classical pianist on a tour of venues through the 1960s American South."
+  },
+  {
+    "title": "Captain America: The Winter Soldier",
+    "link": "https://www.imdb.com/title/tt1843866/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMzA2NDkwODAwM15BMl5BanBnXkFtZTgwODk5MTgzMTE@._V1_UY209_CR1,0,140,209_AL_.jpg",
+    "description":
+      "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier."
+  },
+  {
+    "title": "Manchester by the Sea",
+    "link": "https://www.imdb.com/title/tt4034228/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMTYxMjk0NDg4Ml5BMl5BanBnXkFtZTgwODcyNjA5OTE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description": "A depressed uncle is asked to take care of his teenage nephew after the boy's father dies."
+  },
+  {
+    "title": "Hell or High Water",
+    "link": "https://www.imdb.com/title/tt2582782/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMTg4NDA1OTA5NF5BMl5BanBnXkFtZTgwMDQ2MDM5ODE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "A divorced father and his ex-con older brother resort to a desperate scheme in order to save their family's ranch in West Texas."
+  },
+  {
+    "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "link": "https://www.imdb.com/title/tt2562232/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BODAzNDMxMzAxOV5BMl5BanBnXkFtZTgwMDMxMjA4MjE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "A washed-up superhero actor attempts to revive his fading career by writing, directing, and starring in a Broadway production."
+  },
+  {
+    "title": "The Town",
+    "link": "https://www.imdb.com/title/tt0840361/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMTcyNzcxODg3Nl5BMl5BanBnXkFtZTcwMTUyNjQ3Mw@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "As he plans his next job, a longtime thief tries to balance his feelings for a bank manager connected to one of his earlier heists, as well as the F.B.I. Agent looking to bring him and his crew down."
+  },
+  {
+    "title": "Moonlight",
+    "link": "https://www.imdb.com/title/tt4975722/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BNzQxNTIyODAxMV5BMl5BanBnXkFtZTgwNzQyMDA3OTE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "A chronicle of the childhood, adolescence and burgeoning adulthood of a young, African-American, gay man growing up in a rough neighborhood of Miami."
+  },
+  {
+    "title": "Mud",
+    "link": "https://www.imdb.com/title/tt1935179/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMTU2MzcyODgyNV5BMl5BanBnXkFtZTcwNTc4MDYwOQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "Two young boys encounter a fugitive and form a pact to help him evade the vigilantes that are on his trail and to reunite him with his true love."
+  },
+  {
+    "title": "Get Out",
+    "link": "https://www.imdb.com/title/tt5052448/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point."
+  },
+  {
+    "title": "The Martian",
+    "link": "https://www.imdb.com/title/tt3659388/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive."
+  },
+  {
+    "title": "Lady Bird",
+    "link": "https://www.imdb.com/title/tt4925292/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BODhkZGE0NDQtZDc0Zi00YmQ4LWJiNmUtYTY1OGM1ODRmNGVkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description": "In 2002, an artistically inclined seventeen-year-old girl comes of age in Sacramento, California."
+  },
+  {
+    "title": "Coco",
+    "link": "https://www.imdb.com/title/tt2380307/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_UY209_CR3,0,140,209_AL_.jpg",
+    "description":
+      "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer."
+  },
+  {
+    "title": "Wind River",
+    "link": "https://www.imdb.com/title/tt5362988/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMTUyMjU1OTUwM15BMl5BanBnXkFtZTgwMDg1NDQ2MjI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "A veteran hunter helps an FBI agent investigate the murder of a young woman on a Wyoming Native American reservation."
+  },
+  {
+    "title": "It",
+    "link": "https://www.imdb.com/title/tt1396484/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWE1ODEtMWMzMWMzNDA0NmQ4XkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "description":
+      "In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town."
+  },
+  {
+    "title": "Nightcrawler",
+    "link": "https://www.imdb.com/title/tt2872718/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BN2U1YzdhYWMtZWUzMi00OWI1LWFkM2ItNWVjM2YxMGQ2MmNhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY209_CR2,0,140,209_AL_.jpg",
+    "description":
+      "When Louis Bloom, a con man desperate for work, muscles into the world of L.A. crime journalism, he blurs the line between observer and participant to become the star of his own story."
+  },
+  {
+    "title": "The Fighter",
+    "link": "https://www.imdb.com/title/tt0964517/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMTM0ODk3MjM1MV5BMl5BanBnXkFtZTcwNzc1MDIwNA@@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "description":
+      "Based on the story of Micky Ward, a fledgling boxer who tries to escape the shadow of his more famous but troubled older boxing brother and get his own shot at greatness."
+  },
+  {
+    "title": "Captain America: Civil War",
+    "link": "https://www.imdb.com/title/tt3498820/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description": "Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man."
+  },
+  {
+    "title": "Dunkirk",
+    "link": "https://www.imdb.com/title/tt5013056/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BN2YyZjQ0NTEtNzU5MS00NGZkLTg0MTEtYzJmMWY3MWRhZjM2XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "Allied soldiers from Belgium, the British Empire, and France are surrounded by the German Army, and evacuated during a fierce battle in World War II."
+  },
+  {
+    "title": "Baby Driver",
+    "link": "https://www.imdb.com/title/tt3890160/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMjM3MjQ1MzkxNl5BMl5BanBnXkFtZTgwODk1ODgyMjI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "After being coerced into working for a crime boss, a young getaway driver finds himself taking part in a heist doomed to fail."
+  },
+  {
+    "title": "The Jungle Book",
+    "link": "https://www.imdb.com/title/tt3040964/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMTc3NTUzNTI4MV5BMl5BanBnXkFtZTgwNjU0NjU5NzE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "After a threat from the tiger Shere Khan forces him to flee the jungle, a man-cub named Mowgli embarks on a journey of self discovery with the help of panther Bagheera and free-spirited bear Baloo."
+  },
+  {
+    "title": "Creed",
+    "link": "https://www.imdb.com/title/tt3076658/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BODg5NDM1MDI4NF5BMl5BanBnXkFtZTgwMzg0MzQxNzE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed."
+  },
+  {
+    "title": "Captain Phillips",
+    "link": "https://www.imdb.com/title/tt1535109/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BODhiZWRhMjctNDUyMS00NmUwLTgwYmItMjJhOWNkZWQ3ZTQxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "The true story of Captain Richard Phillips and the 2009 hijacking by Somali pirates of the U.S.-flagged MV Maersk Alabama, the first American cargo ship to be hijacked in two hundred years."
+  },
+  {
+    "title": "Argo",
+    "link": "https://www.imdb.com/title/tt1024648/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BNzljNjY3MDYtYzc0Ni00YjU0LWIyNDUtNTE0ZDRiMGExMjZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "Acting under the cover of a Hollywood producer scouting a location for a science fiction film, a CIA agent launches a dangerous operation to rescue six Americans in Tehran during the U.S. hostage crisis in Iran in 1979."
+  },
+  {
+    "title": "Moneyball",
+    "link": "https://www.imdb.com/title/tt1210166/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMjAxOTU3Mzc1M15BMl5BanBnXkFtZTcwMzk1ODUzNg@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "Oakland A's general manager Billy Beane's successful attempt to assemble a baseball team on a lean budget by employing computer-generated analysis to acquire new players."
+  },
+  {
+    "title": "Nocturnal Animals",
+    "link": "https://www.imdb.com/title/tt4550098/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMTYwMzMwMzgxNl5BMl5BanBnXkFtZTgwMTA0MTUzMDI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "A wealthy art gallery owner is haunted by her ex-husband's novel, a violent thriller she interprets as a symbolic revenge tale."
+  },
+  {
+    "title": "Blade Runner 2049",
+    "link": "https://www.imdb.com/title/tt1856101/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "A young blade runner's discovery of a long-buried secret leads him to track down former blade runner Rick Deckard, who's been missing for thirty years."
+  },
+  {
+    "title": "Dawn of the Planet of the Apes",
+    "link": "https://www.imdb.com/title/tt2103281/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMTgwODk3NDc1N15BMl5BanBnXkFtZTgwNTc1NjQwMjE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "A growing nation of genetically evolved apes led by Caesar is threatened by a band of human survivors of the devastating virus unleashed a decade earlier."
+  },
+  {
+    "title": "The Revenant",
+    "link": "https://www.imdb.com/title/tt1663202/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMDE5OWMzM2QtOTU2ZS00NzAyLWI2MDEtOTRlYjIxZGM0OWRjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team."
+  },
+  {
+    "title": "The Spectacular Now",
+    "link": "https://www.imdb.com/title/tt1714206/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMjA5MTc0NTkzM15BMl5BanBnXkFtZTcwODEwNjE3OQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "A hard-partying high school senior's philosophy on life changes when he meets the not-so-typical \"nice girl.\""
+  },
+  {
+    "title": "BlacKkKlansman",
+    "link": "https://www.imdb.com/title/tt7349662/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMjUyOTE1NjI0OF5BMl5BanBnXkFtZTgwMTM4ODQ5NTM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "Ron Stallworth, an African American police officer from Colorado Springs, CO, successfully manages to infiltrate the local Ku Klux Klan branch with the help of a Jewish surrogate who eventually becomes its leader. Based on actual events."
+  },
+  {
+    "title": "The Shape of Water",
+    "link": "https://www.imdb.com/title/tt5580390/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BNGNiNWQ5M2MtNGI0OC00MDA2LWI5NzEtMmZiYjVjMDEyOWYzXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "At a top secret research facility in the 1960s, a lonely janitor forms a unique relationship with an amphibious creature that is being held in captivity."
+  },
+  {
+    "title": "Spotlight",
+    "link": "https://www.imdb.com/title/tt1895587/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core."
+  },
+  {
+    "title": "The Post",
+    "link": "https://www.imdb.com/title/tt6294822/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMjQyMjEwOTIwNV5BMl5BanBnXkFtZTgwOTkzNTMxNDM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "A cover-up that spanned four U.S. Presidents pushed the country's first female newspaper publisher and a hard-driving editor to join an unprecedented battle between the press and the government."
+  },
+  {
+    "title": "Silver Linings Playbook",
+    "link": "https://www.imdb.com/title/tt1045658/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMTM2MTI5NzA3MF5BMl5BanBnXkFtZTcwODExNTc0OA@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "After a stint in a mental institution, former teacher Pat Solitano moves back in with his parents and tries to reconcile with his ex-wife. Things get more challenging when Pat meets Tiffany, a mysterious girl with problems of her own."
+  },
+  {
+    "title": "The Nice Guys",
+    "link": "https://www.imdb.com/title/tt3799694/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMjcwNDA5MDYyNl5BMl5BanBnXkFtZTgwNjg0NDkzNzE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "In 1970s Los Angeles, a mismatched pair of private eyes investigate a missing girl and the mysterious death of a porn star."
+  },
+  {
+    "title": "Looper",
+    "link": "https://www.imdb.com/title/tt1276104/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMTg5NTA3NTg4NF5BMl5BanBnXkFtZTcwNTA0NDYzOA@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "In 2074, when the mob wants to get rid of someone, the target is sent into the past, where a hired gun awaits - someone like Joe - who one day learns the mob wants to 'close the loop' by sending back Joe's future self for assassination."
+  },
+  {
+    "title": "The Hateful Eight",
+    "link": "https://www.imdb.com/title/tt3460252/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMjA1MTc1NTg5NV5BMl5BanBnXkFtZTgwOTM2MDEzNzE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "In the dead of a Wyoming winter, a bounty hunter and his prisoner find shelter in a cabin currently inhabited by a collection of nefarious characters."
+  },
+  {
+    "title": "I, Tonya",
+    "link": "https://www.imdb.com/title/tt5580036/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMjI5MDY1NjYzMl5BMl5BanBnXkFtZTgwNjIzNDAxNDM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure Skating Championships, but her future in the activity is thrown into doubt when her ex-husband intervenes."
+  },
+  {
+    "title": "Deepwater Horizon",
+    "link": "https://www.imdb.com/title/tt1860357/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BOTEzNDU0OTgxM15BMl5BanBnXkFtZTgwNjA0ODM2OTE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "A dramatization of the disaster in April 2010, when the offshore drilling rig called the Deepwater Horizon exploded, resulting in the worst oil spill in American history."
+  },
+  {
+    "title": "La La Land",
+    "link": "https://www.imdb.com/title/tt3783958/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future."
+  },
+  {
+    "title": "Ready Player One",
+    "link": "https://www.imdb.com/title/tt1677720/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BY2JiYTNmZTctYTQ1OC00YjU4LWEwMjYtZjkwY2Y5MDI0OTU3XkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "When the creator of a virtual reality world called the OASIS dies, he releases a video in which he challenges all OASIS users to find his Easter Egg, which will give the finder his fortune."
+  },
+  {
+    "title": "Sicario",
+    "link": "https://www.imdb.com/title/tt3397884/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMjA5NjM3NTk1M15BMl5BanBnXkFtZTgwMzg1MzU2NjE@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "description":
+      "An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico."
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "link": "https://www.imdb.com/title/tt4154756/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe."
+  },
+  {
+    "title": "Chronicle",
+    "link": "https://www.imdb.com/title/tt1706593/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BYmRkY2RhM2QtMjQwNC00NDVjLTk4MTQtZGNiMjYxMmJmODVhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "Three high school friends gain superpowers after making an incredible discovery underground. Soon they find their lives spinning out of control and their bond tested as they embrace their darker sides."
+  },
+  {
+    "title": "Molly's Game",
+    "link": "https://www.imdb.com/title/tt4209788/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BNTkzMzRlYjEtMTQ5Yi00OWY3LWI0NzYtNGQ4ZDkzZTU0M2IwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "The true story of Molly Bloom, an Olympic-class skier who ran the world's most exclusive high-stakes poker game and became an FBI target."
+  },
+  {
+    "title": "Deadpool",
+    "link": "https://www.imdb.com/title/tt1431045/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "description":
+      "A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks."
+  },
+  {
+    "title": "Gone Girl",
+    "link": "https://www.imdb.com/title/tt2267998/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_UY209_CR1,0,140,209_AL_.jpg",
+    "description":
+      "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent."
+  },
+  {
+    "title": "Inside Out",
+    "link": "https://www.imdb.com/title/tt2096673/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school."
+  },
+  {
+    "title": "War for the Planet of the Apes",
+    "link": "https://www.imdb.com/title/tt3450958/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BNDNmYTQzMDEtMmY0MS00OTNjLTk4MjItMDZhMzkzOGI3MzA0XkEyXkFqcGdeQXVyNjk5NDA3OTk@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind."
+  },
+  {
+    "title": "Fruitvale Station",
+    "link": "https://www.imdb.com/title/tt2334649/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMTQ0OTU1MDkxMF5BMl5BanBnXkFtZTcwNjI5OTA3OQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "The story of Oscar Grant III, a 22-year-old Bay Area resident, who crosses paths with friends, enemies, family, and strangers on the last day of 2008."
+  },
+  {
+    "title": "The Social Network",
+    "link": "https://www.imdb.com/title/tt1285016/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BOGUyZDUxZjEtMmIzMC00MzlmLTg4MGItZWJmMzBhZjE0Mjc1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, but is later sued by two brothers who claimed he stole their idea, and the co-founder who was later squeezed out of the business."
+  },
+  {
+    "title": "Fury",
+    "link": "https://www.imdb.com/title/tt2713180/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMjA4MDU0NTUyN15BMl5BanBnXkFtZTgwMzQxMzY4MjE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "A grizzled tank commander makes tough decisions as he and his crew fight their way across Germany in April, 1945."
+  },
+  {
+    "title": "X-Men: Days of Future Past",
+    "link": "https://www.imdb.com/title/tt1877832/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BZGIzNWYzN2YtMjcwYS00YjQ3LWI2NjMtOTNiYTUyYjE2MGNkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "The X-Men send Wolverine to the past in a desperate effort to change history and prevent an event that results in doom for both humans and mutants."
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "link": "https://www.imdb.com/title/tt4633694/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "Teen Miles Morales becomes Spider-Man of his reality, crossing his path with five counterparts from other dimensions to stop a threat for all realities."
+  },
+  {
+    "title": "Me and Earl and the Dying Girl",
+    "link": "https://www.imdb.com/title/tt2582496/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BNTA1NzUzNjY4MV5BMl5BanBnXkFtZTgwNDU0MDI0NTE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "High schooler Greg, who spends most of his time making parodies of classic movies with his co-worker Earl, finds his outlook forever altered after befriending a classmate who has just been diagnosed with cancer."
+  },
+  {
+    "title": "Mission: Impossible - Rogue Nation",
+    "link": "https://www.imdb.com/title/tt2381249/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BOTFmNDA3ZjMtN2Y0MC00NDYyLWFlY2UtNTQ4OTQxMmY1NmVjXkEyXkFqcGdeQXVyNTg4NDQ4NDY@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "description":
+      "Ethan and team take on their most impossible mission yet, eradicating the Syndicate - an International rogue organization as highly skilled as they are, committed to destroying the IMF."
+  },
+  {
+    "title": "Split",
+    "link": "https://www.imdb.com/title/tt4972582/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BZTJiNGM2NjItNDRiYy00ZjY0LTgwNTItZDBmZGRlODQ4YThkL2ltYWdlXkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "Three girls are kidnapped by a man with a diagnosed 23 distinct personalities. They must try to escape before the apparent emergence of a frightful new 24th."
+  },
+  {
+    "title": "A Quiet Place",
+    "link": "https://www.imdb.com/title/tt6644200/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMjI0MDMzNTQ0M15BMl5BanBnXkFtZTgwMTM5NzM3NDM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "In a post-apocalyptic world, a family is forced to live in silence while hiding from monsters with ultra-sensitive hearing."
+  },
+  {
+    "title": "It Follows",
+    "link": "https://www.imdb.com/title/tt3235888/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMmU0MjBlYzYtZWY0MC00MjliLWI3ZmUtMzhlZDVjMWVmYWY4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description": "A young woman is followed by an unknown supernatural force after a sexual encounter."
+  },
+  {
+    "title": "Logan Lucky",
+    "link": "https://www.imdb.com/title/tt5439796/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMTYyODg0NDU1OV5BMl5BanBnXkFtZTgwNjcxMzU0MjI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description": "Two brothers attempt to pull off a heist during a NASCAR race in North Carolina."
+  },
+  {
+    "title": "Star Wars: Episode VIII - The Last Jedi",
+    "link": "https://www.imdb.com/title/tt2527336/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares for battle with the First Order."
+  },
+  {
+    "title": "Edge of Tomorrow",
+    "link": "https://www.imdb.com/title/tt1631867/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "A soldier fighting aliens gets to relive the same day over and over again, the day restarting every time he dies."
+  },
+  {
+    "title": "Annihilation",
+    "link": "https://www.imdb.com/title/tt2798920/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMTk2Mjc2NzYxNl5BMl5BanBnXkFtZTgwMTA2OTA1NDM@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "description":
+      "A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don't apply."
+  },
+  {
+    "title": "Three Billboards Outside Ebbing, Missouri",
+    "link": "https://www.imdb.com/title/tt5027774/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMjMxNzgwMDUyMl5BMl5BanBnXkFtZTgwMTQ0NTIyNDM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit."
+  },
+  {
+    "title": "Interstellar",
+    "link": "https://www.imdb.com/title/tt0816692/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
+  },
+  {
+    "title": "Black Panther",
+    "link": "https://www.imdb.com/title/tt1825683/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past."
+  },
+  {
+    "title": "Star Wars: Episode VII - The Force Awakens",
+    "link": "https://www.imdb.com/title/tt2488496/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_UY209_CR1,0,140,209_AL_.jpg",
+    "description":
+      "Three decades after the Empire's defeat, a new threat arises in the militant First Order. Stormtrooper defector Finn and the scavenger Rey are caught up in the Resistance's search for the missing Luke Skywalker."
+  },
+  {
+    "title": "Incredibles 2",
+    "link": "https://www.imdb.com/title/tt3606756/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "The Incredibles hero family takes on a new mission, which involves a change in family roles: Bob Parr (Mr Incredible) must manage the house while his wife Helen (Elastigirl) goes out to save the world."
+  },
+  {
+    "title": "127 Hours",
+    "link": "https://www.imdb.com/title/tt1542344/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMTc2NjMzOTE3Ml5BMl5BanBnXkFtZTcwMDE0OTc5Mw@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "An adventurous mountain climber becomes trapped under a boulder while canyoneering alone near Moab, Utah and resorts to desperate measures in order to survive."
+  },
+  {
+    "title": "Bridge of Spies",
+    "link": "https://www.imdb.com/title/tt3682448/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMjIxOTI0MjU5NV5BMl5BanBnXkFtZTgwNzM4OTk4NTE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "During the Cold War, an American lawyer is recruited to defend an arrested Soviet spy in court, and then help the CIA facilitate an exchange of the spy for the Soviet captured American U2 spy plane pilot, Francis Gary Powers."
+  },
+  {
+    "title": "The Florida Project",
+    "link": "https://www.imdb.com/title/tt5649144/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMjg4ZmY1MmItMjFjOS00ZTg2LWJjNDYtNDM2YmM2NzhiNmZhXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "Set over one summer, the film follows precocious six-year-old Moonee as she courts mischief and adventure with her ragtag playmates and bonds with her rebellious but caring mother, all while living in the shadows of Walt Disney World."
+  },
+  {
+    "title": "A Star Is Born",
+    "link": "https://www.imdb.com/title/tt1517451/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BNmE5ZmE3OGItNTdlNC00YmMxLWEzNjctYzAwOGQ5ODg0OTI0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "description":
+      "A musician helps a young singer find fame, even as age and alcoholism send his own career into a downward spiral."
+  },
+  {
+    "title": "The Avengers",
+    "link": "https://www.imdb.com/title/tt0848228/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity."
+  },
+  {
+    "title": "Dallas Buyers Club",
+    "link": "https://www.imdb.com/title/tt0790636/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMTYwMTA4MzgyNF5BMl5BanBnXkFtZTgwMjEyMjE0MDE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "In 1985 Dallas, electrician and hustler Ron Woodroof works around the system to help AIDS patients get the medication they need after he is diagnosed with the disease."
+  },
+  {
+    "title": "Life of Pi",
+    "link": "https://www.imdb.com/title/tt0454876/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BNTg2OTY2ODg5OF5BMl5BanBnXkFtZTcwODM5MTYxOA@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "A young man who survives a disaster at sea is hurtled into an epic journey of adventure and discovery. While cast away, he forms an unexpected connection with another survivor: a fearsome Bengal tiger."
+  },
+  {
+    "title": "Steve Jobs",
+    "link": "https://www.imdb.com/title/tt2080374/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMjE0NTA2MTEwOV5BMl5BanBnXkFtZTgwNzg4NzU2NjE@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "description":
+      "Steve Jobs takes us behind the scenes of the digital revolution, to paint a portrait of the man at its epicenter. The story unfolds backstage at three iconic product launches, ending in 1998 with the unveiling of the iMac."
+  },
+  {
+    "title": "The Conjuring 2",
+    "link": "https://www.imdb.com/title/tt3065204/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BZjU5OWVlN2EtODNlYy00MjhhLWI0MDUtMTA3MmQ5MGMwYTZmXkEyXkFqcGdeQXVyNjE5MTM4MzY@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "Ed and Lorraine Warren travel to North London to help a single mother raising 4 children alone in a house plagued by a supernatural spirit."
+  },
+  {
+    "title": "Beasts of No Nation",
+    "link": "https://www.imdb.com/title/tt1365050/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMTYwMzMzMDI0NF5BMl5BanBnXkFtZTgwNDQ3NjI3NjE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "A drama based on the experiences of Agu, a child soldier fighting in the civil war of an unnamed African country."
+  },
+  {
+    "title": "The Big Short",
+    "link": "https://www.imdb.com/title/tt1596363/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BNDc4MThhN2EtZjMzNC00ZDJmLThiZTgtNThlY2UxZWMzNjdkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "description":
+      "In 2006-7 a group of investors bet against the US mortgage market. In their research they discover how flawed and corrupt the market is."
+  },
+  {
+    "title": "Battle of the Sexes",
+    "link": "https://www.imdb.com/title/tt4622512/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BZTljYmU2NTMtODhhNC00NjlhLWJhZTUtNDllODYyYWM4ZjA5XkEyXkFqcGdeQXVyNjM0ODk5NDY@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "The true story of the 1973 tennis match between World number one Billie Jean King and ex-champ and serial hustler Bobby Riggs."
+  },
+  {
+    "title": "Toy Story 3",
+    "link": "https://www.imdb.com/title/tt0435761/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_UY209_CR4,0,140,209_AL_.jpg",
+    "description":
+      "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home."
+  },
+  {
+    "title": "Coco",
+    "link": "https://www.imdb.com/title/tt2380307/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_UY209_CR3,0,140,209_AL_.jpg",
+    "description":
+      "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer."
+  },
+  {
+    "title": "Inside Out",
+    "link": "https://www.imdb.com/title/tt2096673/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school."
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "link": "https://www.imdb.com/title/tt4633694/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "Teen Miles Morales becomes Spider-Man of his reality, crossing his path with five counterparts from other dimensions to stop a threat for all realities."
+  },
+  {
+    "title": "Incredibles 2",
+    "link": "https://www.imdb.com/title/tt3606756/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "The Incredibles hero family takes on a new mission, which involves a change in family roles: Bob Parr (Mr Incredible) must manage the house while his wife Helen (Elastigirl) goes out to save the world."
+  },
+  {
+    "title": "The Lego Movie",
+    "link": "https://www.imdb.com/title/tt1490017/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "An ordinary LEGO construction worker, thought to be the prophesied as \"special\", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis."
+  },
+  {
+    "title": "A Monster Calls",
+    "link": "https://www.imdb.com/title/tt3416532/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMTg1OTA5OTkyNV5BMl5BanBnXkFtZTgwODMwNDU5OTE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description": "A boy seeks the help of a tree monster to cope with his single mother's terminal illness."
+  },
+  {
+    "title": "Kubo and the Two Strings",
+    "link": "https://www.imdb.com/title/tt4302938/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMjA2Mzg2NDMzNl5BMl5BanBnXkFtZTgwMjcwODUzOTE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "A young boy named Kubo must locate a magical suit of armour worn by his late father in order to defeat a vengeful spirit from the past."
+  },
+  {
+    "title": "Moana",
+    "link": "https://www.imdb.com/title/tt3521164/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches Moana's island, she answers the Ocean's call to seek out the Demigod to set things right."
+  },
+  {
+    "title": "Zootopia",
+    "link": "https://www.imdb.com/title/tt2948356/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BOTMyMjEyNzIzMV5BMl5BanBnXkFtZTgwNzIyNjU0NzE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy."
+  },
+  {
+    "title": "The Lego Batman Movie",
+    "link": "https://www.imdb.com/title/tt4116284/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to rule Gotham City, while discovering that he has accidentally adopted a teenage orphan who wishes to become his sidekick."
+  },
+  {
+    "title": "Big Hero 6",
+    "link": "https://www.imdb.com/title/tt2245084/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMDliOTIzNmUtOTllOC00NDU3LWFiNjYtMGM0NDc1YTMxNjYxXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_UY209_CR3,0,140,209_AL_.jpg",
+    "description":
+      "The special bond that develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes."
+  },
+  {
+    "title": "Finding Dory",
+    "link": "https://www.imdb.com/title/tt2277860/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BNzg4MjM2NDQ4MV5BMl5BanBnXkFtZTgwMzk3MTgyODE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "The friendly but forgetful blue tang fish, Dory, begins a search for her long-lost parents, and everyone learns a few things about the real meaning of family along the way."
+  },
+  {
+    "title": "How to Train Your Dragon 2",
+    "link": "https://www.imdb.com/title/tt1646971/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMzMwMTAwODczN15BMl5BanBnXkFtZTgwMDk2NDA4MTE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "When Hiccup and Toothless discover an ice cave that is home to hundreds of new wild dragons and the mysterious Dragon Rider, the two friends find themselves at the center of a battle to protect the peace."
+  },
+  {
+    "title": "How to Train Your Dragon",
+    "link": "https://www.imdb.com/title/tt0892769/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed."
+  },
+  {
+    "title": "The Peanuts Movie",
+    "link": "https://www.imdb.com/title/tt2452042/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BNTE5NzMxNzkwNl5BMl5BanBnXkFtZTgwOTQ0Nzk5NzE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "Snoopy embarks upon his greatest mission as he and his team take to the skies to pursue their archnemesis, while his best pal Charlie Brown begins his own epic quest back home to win the love of his life."
+  },
+  {
+    "title": "Wreck-It Ralph",
+    "link": "https://www.imdb.com/title/tt1772341/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BNzMxNTExOTkyMF5BMl5BanBnXkFtZTcwMzEyNDc0OA@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "A video game villain wants to be a hero and sets out to fulfill his dream, but his quest brings havoc to the whole arcade where he lives."
+  },
+  {
+    "title": "Monsters University",
+    "link": "https://www.imdb.com/title/tt1453405/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMTUyODgwMDU3M15BMl5BanBnXkFtZTcwOTM4MjcxOQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "A look at the relationship between Mike and Sulley during their days at Monsters University -- when they weren't necessarily the best of friends."
+  },
+  {
+    "title": "Frozen",
+    "link": "https://www.imdb.com/title/tt2294629/?ref_=ttls_li_tt",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BMTQ1MjQwMTE5OF5BMl5BanBnXkFtZTgwNjk3MTcyMDE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "description":
+      "When the newly-crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition."
+  },
+  {
+    "title": "The Pink Panther",
+    "link": "https://www.imdb.com/title/tt0057413/?ref_=nv_sr_1",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BNzg5NTYzNDI4OF5BMl5BanBnXkFtZTcwOTQxMTMyNA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "description":
+      "The bumbling Inspector Clouseau travels to Rome to catch a notorious jewel thief known as \"The Phantom\" before he conducts his most daring heist yet: a princess' priceless diamond with one slight imperfection, known as \"The Pink Panther\""
+  }
+]

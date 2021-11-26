@@ -1,0 +1,39 @@
+﻿@{
+    Layout = "_BaseLayout";
+}
+
+<header class="d-print-none">
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <div class="container">
+            <a class="navbar-brand" href="/">Pink Panther</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="navbar-collapse collapse d-sm-inline-flex">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/pos/start">
+                            POS
+                        </a>
+                    </li>
+                </ul>
+                <div class="navbar-nav ml-auto">
+                    <span class="nav-item nav-link">
+                        Welcome, @Context.User.Identity.Name
+                    </span>
+                    <span class="nav-item">
+                        <a class="nav-link" href="/identity/account/logoff">
+                            Logout
+                        </a>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+<div class="container">
+    <main role="main" class="pb-3">
+        @RenderBody()
+    </main>
+</div>

@@ -1,0 +1,58 @@
+﻿@model OrderViewModel
+@{
+    Layout = "_Layout";
+}
+
+<h1>Confirm reservation: @Model.Movie?.Title</h1>
+
+<div class="row mt-4">
+    <div class="col-lg-6">
+        <h2 class="mb-3">Payment details</h2>
+        <form method="post" asp-action="StartPayment">
+            <table class="table">
+                <tr>
+                    <td>Email</td>
+                    <td><input class="form-control" asp-for="Email" type="email" /></td>
+                </tr>
+                <tr>
+                    <td>Payment Method</td>
+                    <td>
+                        <select class="form-control" asp-for="PaymentMethod" asp-items="Html.GetEnumSelectList<PaymentMethod>()">
+                            <option selected="selected" disabled="disabled">Select payment method</option>
+                        </select>
+                    </td>
+                </tr>
+            </table>
+            <input type="hidden" asp-for="Id"/>
+
+            <input type="submit" class="btn btn-primary" value="Place reservation"/>
+        </form>
+    </div>
+    <div class="col-lg-6">
+        <h2 class="mb-3">Reservation details</h2>
+        @foreach (var reservation in Model.Reservations)
+        {
+            <div class="row pb-3">
+                <div class="col-3">
+                    <img src="@Model.Movie.Image" alt="@Model.Movie.Title" style="max-width: 100%;"/>
+                </div>
+                <div class="col-6 pl-3 pr-3">
+                    <h3>@Model.Movie.Title</h3>
+                    <p>Seat: Row: @reservation.Seat.Row, Seat: @reservation.Seat.SeatNumber</p>
+                    <p>Discount: @(reservation.Discount == null ? "-" : reservation.Discount.Name)</p>
+                    <p>Arrangement: @(reservation.Arrangement == null ? "-" : reservation.Arrangement.Name)</p>
+                </div>
+                <div class="col-3">                    
+                    <p class="text-right font-weight-bold">Price: &euro; @reservation.Price</p>
+                </div>
+            </div>
+        }
+
+        <hr/>
+        <div class="row">
+            <div class="col-12">
+                <p class="font-weight-bold text-right">Total price: &euro; @Model.TotalAmount</p>
+            </div>
+        </div>
+    </div>
+</div>

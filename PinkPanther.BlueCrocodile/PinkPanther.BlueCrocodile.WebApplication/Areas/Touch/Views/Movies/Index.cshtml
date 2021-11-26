@@ -1,0 +1,29 @@
+﻿@using PinkPanther.BlueCrocodile.WebApplication.Models;
+
+@{
+    ViewData["Title"] = "Index";
+}
+<h1>Overview of all show times</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Date</th>
+            <th>Time</th>
+            <th>RoomId</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (MovieShowTimeView m in ViewData.Model)
+        {
+            <tr>
+                <td>@m.Title</td>
+                <td>@m.ShowTime.ToShortDateString()</td>
+                <td>@m.ShowTime.ToShortTimeString()</td>
+                <td>@m.Room</td>
+                <td><a class="btn btn-primary btn-sm" asp-controller="Movies" asp-action="Details" asp-route-movieId="@m.Id">Details</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

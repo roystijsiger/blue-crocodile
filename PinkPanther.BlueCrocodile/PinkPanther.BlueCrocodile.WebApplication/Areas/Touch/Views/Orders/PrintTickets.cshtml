@@ -1,0 +1,96 @@
+﻿@model PinkPanther.BlueCrocodile.WebApplication.Areas.Website.ViewModels.OrderViewModel
+
+@{
+    Layout = "_Layout";
+}
+
+
+<h1>Print tickets</h1>
+@if (Model.PaymentStatus != PaymentStatus.Paid)
+{
+    <p>You have to pay first!</p>
+    <p>Go to a counter to pay for you're tickets.</p>
+}
+else
+{
+    <p>You can print you're tickets!</p>
+    <p>Press the button below to print you're tickets.</p>
+
+
+    <div class="row mt-4">
+        <div class="col-md-6">
+            <h2 class="mb-3">Order details</h2>
+            <table class="table">
+                <tr>
+                    <th>Order number</th>
+                    <td>@Model.Code</td>
+                </tr>
+                <tr>
+                    <th>Movie</th>
+                    <td>@Model.Movie.Title</td>
+                </tr>
+                <tr>
+                    <th>Showtime</th>
+                    <td>@Model.ShowTime.DateTime</td>
+                </tr>
+                <tr>
+                    <th>RoomId</th>
+                    <td>@Model.ShowTime.Room.Number</td>
+                </tr>
+                <tr>
+                    <th>Reservation email</th>
+                    <td>@Model.Email</td>
+                </tr>
+                <tr>
+                    <th>Tickets</th>
+                    <td>@Model.Reservations.Count</td>
+                </tr>
+                <tr>
+                    <th>Total amount</th>
+                    <td>&euro; @Model.TotalAmount</td>
+                </tr>
+            </table>
+        </div>
+        <div class="col-12">
+            <a onclick="print()" href="#" class="btn btn-primary d-print-none">Print</a>
+        </div>
+        <hr class="scissors"/>
+        <div class="col-12">
+            @foreach (var reservation in Model.Reservations)
+            {
+                <div class="row prevent-page-break">
+                    <div class="col-3 text-center">
+                        <h3>Ticket <span class="badge @(Model.PaymentStatus == PaymentStatus.Paid ? "badge-success" : "badge-danger")">@(Model.PaymentStatus == PaymentStatus.Paid ? "Paid" : "Not paid")</span></h3>
+                        <img src="@Model.Movie.Image" alt="@Model.Movie.Title" style="max-width: 100%;"/>
+                    </div>
+                    <div class="col-9">
+                        <table class="table">
+                            <tr>
+                                <th>Movie</th>
+                                <td>@Model.Movie.Title</td>
+                            </tr>
+                            <tr>
+                                <th>Showtime</th>
+                                <td>@Model.ShowTime.DateTime</td>
+                            </tr>
+                            <tr>
+                                <th>RoomId</th>
+                                <td>@Model.ShowTime.Room.Number</td>
+                            </tr>
+                            <tr>
+                                <th>Row</th>
+                                <td>@reservation.Seat.Row</td>
+                            </tr>
+                            <tr>
+                                <th>Seat</th>
+                                <td>@reservation.Seat.SeatNumber</td>
+                            </tr>
+                        </table>
+                        <span class="barcode">@reservation.Code</span>
+                    </div>
+                    <hr class="scissors"/>
+                </div>
+            }
+        </div>
+    </div>
+}

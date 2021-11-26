@@ -1,0 +1,20 @@
+﻿@model List<Movie>
+
+<h1>Manage Movies</h1>
+
+<table class="table">
+    <tr>
+        <th>Name</th>
+        <th>Showtimes</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var movie in Model)
+    {
+        <tr>
+            <td>@movie.Title</td>
+            <td>@movie.ShowTimes.Count()</td>
+            <td><a class="btn btn-sm btn-outline-primary" asp-area="POS" asp-controller="Movies" asp-action="Manage" asp-route-id="@movie.Id">Manage</a></td>
+        </tr>
+    }
+</table>

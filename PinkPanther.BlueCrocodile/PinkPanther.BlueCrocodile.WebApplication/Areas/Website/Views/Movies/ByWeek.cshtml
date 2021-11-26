@@ -1,0 +1,58 @@
+﻿<h1>Filter</h1>
+<form method="POST">
+    <div class="row text-center mb-5">
+        <div class="col-3">
+            <label for="roomNumber">RoomId:</label>
+            <input class="form-control" type="text" name="roomNumber" id="roomNumber"/>
+        </div>
+
+        <div class="col-3">
+            <label for="dateFrom">From:</label>
+            <input class="form-control" type="date" name="fromDate" id="fromDate"/>
+        </div>
+        <div class="col-3">
+            <label for="dateTill">Till:</label>
+            <input class="form-control" type="date" name="tillDate" id="tillDate" />
+        </div>
+        <div class="col-3">
+            <label for="btn__submit">Lets go:</label>
+            <input class="form-control btn btn-sm btn-outline-primary" type="submit"  value="Filter"/>
+        </div>
+    </div>
+</form>
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="row text-center">
+    @{
+        foreach (MovieDetailsShowTimeView movie in ViewData.Model)
+        {
+            <div class="col-4">
+                <table>
+                    <tbody>
+                        <tr>
+                            <td>
+                                <h2>@movie.Title</h2>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="@movie.Image" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                @movie.Description
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a class="btn btn-sm btn-outline-primary" asp-area="Website" asp-controller="Movies" asp-action="Details" asp-route-Id="@movie.MovieId">Details</a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        }
+    }
+</div>

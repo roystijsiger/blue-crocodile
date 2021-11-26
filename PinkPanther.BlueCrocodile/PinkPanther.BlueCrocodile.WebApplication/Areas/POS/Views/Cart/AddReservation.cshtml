@@ -1,0 +1,31 @@
+﻿@model OrderViewModel
+@{
+    Layout = "_Layout";
+}
+
+<h1>Reservation: @Model.Movie?.Title</h1>
+
+<form method="post" asp-action="Place">
+    <table class="table">
+        <tr>
+            <td>DateTime</td>
+            <td>@Model.ShowTime?.DateTime</td>
+        </tr>
+        <tr>
+            <td>RoomId</td>
+            <td>@Model.ShowTime?.Room?.Number</td>
+        </tr>
+        <tr>
+            <td>Amount of adults</td>
+            <td><input asp-for="AmountOfAdults" type="number" required min="1" max="100" class="form-control" /></td>
+        </tr>
+        <tr>
+            <td>Amount of children</td>
+            <td><input asp-for="AmountOfChildren" type="number" min="0" max="100" class="form-control" /></td>
+        </tr>
+    </table>
+
+    <input type="hidden" asp-for="Id" />
+
+    <input type="submit" class="btn btn-primary" value="Next" />
+</form>

@@ -1,0 +1,39 @@
+﻿@model OrderViewModel
+@{
+    Layout = "_Layout";
+}
+
+<h1>Seat selection: @Model.Movie?.Title</h1>
+
+<form method="post" asp-action="ConfirmDiscounts">
+    <table class="table">
+        @for (var i = 0; i < Model.Reservations.Count; i++)
+        {
+            <tr><td>Ticket: @i</td><td>@Html.DropDownListFor(x => Model.Reservations[i].Discount.Name, Model.VisualDiscounts(), "Normal")</td><td>@Html.DropDownListFor(x => Model.Reservations[i].Arrangement.Name, Model.VisualArrangements(), "Choose an Arrangement")</td></tr>
+        }
+    </table>
+    <input type="submit" class="btn btn-primary" value="Next" />
+
+    <div class="row">
+        <div class="col-6">
+            <table class="table">
+                <tr><td>Discount</td><td>Ammount</td><td>Description</td></tr>
+                @foreach (var discount in Model.DiscountsAvailable)
+                {
+                    <tr><td>@discount.Name</td><td>@discount.Ammount</td><td>@discount.Description</td></tr>
+                }
+            </table>
+        </div>
+        <div class="col-6">
+            <table class="table">
+                <tr><td>Arrangement</td><td>Ammount</td><td>Description</td></tr>
+                @foreach (var arrangement in Model.ArrangementsAvailable)
+                {
+                    <tr><td>@arrangement.Name</td><td>@arrangement.Ammount</td><td>@arrangement.Description</td></tr>
+                }
+            </table>
+        </div>
+    </div>
+    <input type="hidden" asp-for="Id" />
+
+</form>

@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<h1>Homepage</h1>
+<a class="btn btn-outline-warning" asp-controller="Movies" asp-action="ByWeek">View movies</a>
+<a href="https://www.facebook.com/Pink-panther-bioscoop-2296044697335142/">Facebook</a>
+<a href="https://twitter.com/?lang=en">Twitter</a>
+
+<div class="card-columns">
+    @{
+        foreach (Movie movie in ViewData.Model)
+        {
+            <div class="card">
+                <a asp-area="Website" asp-controller="Movies" asp-action="Details" asp-route-Id="@movie.Id">
+                    <img src="@movie.Image" class="card-img" alt="@movie.Title">
+                    <div class="card-body">
+                        <h4 class="card-title">@movie.Title</h4>
+                    </div>
+                </a>
+            </div>
+        }
+    }
+</div>
